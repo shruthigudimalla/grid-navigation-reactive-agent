@@ -40,7 +40,7 @@ pip install numpy matplotlib
 Run the Python script to execute the reactive agent in the grid environment:
 
 ```
-python GridNavigation.py
+python gridNavigation.py
 ```
 
 The script will:
